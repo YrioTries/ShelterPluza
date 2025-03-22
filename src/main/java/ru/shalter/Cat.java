@@ -1,4 +1,4 @@
-package ru.shalter;
+package ru.shelter;
 
 public class Cat {
 }
